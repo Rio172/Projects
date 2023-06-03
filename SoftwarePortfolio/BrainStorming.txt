@@ -1,0 +1,30 @@
+App Ideas
+
+- Time Tracking App
+- Stock Performance Tracking
+- Personal Planner
+- lifting App, ( onCLick will navigate to a video demonstrating the correct technique, workout plan). 
+
+
+Tech involves
+- microsoft stack .Net (new) not full framework  [c#, ASP.Net, SQL Server, Azure]
+- Docker
+- python
+- cmd
+- jango webframework
+- azure 
+
+folder, git turn in repo and check 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
